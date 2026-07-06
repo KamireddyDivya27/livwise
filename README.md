@@ -7,6 +7,13 @@ community benchmark data for your city, then uses Google's Gemini model to
 turn that comparison into fast, personalized, actionable recommendations —
 so you don't have to guess whether your bill is normal or where to cut back.
 
+## Demo: [https://livwise-3tbqnum7fgosm96q2tuq9e.streamlit.app/] 
+
+
+
+<img width="2550" height="1248" alt="image" src="https://github.com/user-attachments/assets/81a0b500-3ddb-482a-bf63-1af670ab46fb" />
+
+
 ## How it works
 1. Enter your city, household size, and last month's electricity/water usage & bills.
 2. LivWise instantly benchmarks you against similar households in your city.
